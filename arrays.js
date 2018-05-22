@@ -30,3 +30,6 @@ function removeElementFromBeginningOfArray(arr){
   return cut
 }
 
+function destructivelyRemoveElementFromEndOfArray(arr){
+  
+}
